@@ -1,0 +1,1 @@
+A project where I simple play with some government data on borough -level housing sale data, to get a sense of area trends over the last 20 years. Adding some geographic breakdowns as well later, however for now this is just an interactive Jupyter environment for data visualization.
